@@ -1,0 +1,4 @@
+# ignore any file with extention .log in any directory
+**/*.log
+# ignore any file with extention .dll in any directory
+**/*.dll
